@@ -1,0 +1,24 @@
+{
+  "name": "G12 Macro App Luglio–Agosto 2026",
+  "short_name": "G12",
+  "description": "Diario G12 con profili REST, MED e PIZZA DAY, macro modificabili e acqua",
+  "id": "g12-macro-luglio-agosto-2026",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#070d18",
+  "theme_color": "#070d18",
+  "icons": [
+    {
+      "src": "g12-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "g12-icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
